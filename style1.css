@@ -1,0 +1,41 @@
+.body{
+    background-color: rgb(78, 182, 242);
+    background-image: none;
+    background-position: 50%;
+    background-blend-mode: color;    
+}
+.headings
+{
+    text-shadow: 50px;
+    color: rgb(239, 241, 244);
+    font-display:initial ;
+    font-size: x-large;
+    font-variant: unset;
+    font-feature-settings: "hlig";
+    font-family: 'Segoe UI';
+    font-style:italic;
+}
+
+.image
+{
+    image-orientation: from-image;
+    image-resolution: 300pi;
+    border-image: round;
+    border-color: cornflowerblue;
+    box-shadow: inset;
+    background-origin: padding-box;
+    box-sizing: border-box;
+}
+.name
+{
+    font-size:larger;
+    font-family: 'Tahoma';
+    color:rgb(53, 10, 66);
+    text-align: justify;
+}
+.subs{
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Segoe UI';
+    color: rgb(223, 238, 11);
+}
